@@ -1,0 +1,14 @@
+{
+  "name": "electron-start",
+  "version": "1.0.0",
+  "description": "First Demo App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mayank Shakya",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^12.0.1"
+  }
+}
